@@ -4,6 +4,16 @@ Curated experimental results from [IRIS Gate Evo](https://github.com/templetwo/i
 
 Five independent AI models (Claude, Gemini, Grok, DeepSeek, Mistral) receive the same research question, respond independently, and the system finds convergence through semantic claim embedding. What survives is consensus science — falsifiable hypotheses with Monte Carlo power analysis.
 
+## Preprint
+
+**[VDAC1 as the Mitochondrial Decision Gate: A Unifying Framework for Cannabidiol's Paradoxical Effects](VDAC1_Mitochondrial_Decision_Gate.pdf)** — Vasquez Sr., A.J. (February 2026)
+
+The paper proposes that VDAC1 on the outer mitochondrial membrane functions as the decision gate routing CBD's effects toward neuroprotection or cytotoxicity based on pre-existing mitochondrial state. It presents the cofactor threshold equation converged upon by six independent IRIS Gate Evo runs, a novel chronopharmacology hypothesis linking GSK3-beta cycling to time-of-day-dependent therapeutic windows, and a citation integrity analysis documenting AI hallucination patterns in scientific bibliographies.
+
+See [OSF_PROJECT.md](OSF_PROJECT.md) for structured metadata and component descriptions.
+
+See [CITATION_INTEGRITY.md](CITATION_INTEGRITY.md) for the full citation verification audit.
+
 ## Key Discovery: Structural Isomorphism
 
 Three independent runs surfaced the **same pattern** across different molecules:
@@ -37,6 +47,8 @@ docs/           # Write-ups, community posts, methodology notes
 | `evo_20260210_235609` | Lithium (retry) | pharmacology | S3 FAILED | Stochastic — convergence is probabilistic |
 | `evo_20260211_024747` | THC sustained wellbeing | pharmacology | S3 FAILED (gold) | CB1 occupancy model, 2-AG synergy, HPA axis |
 | `evo_20260211_024750` | THC aging neuroprotection | neuroscience | S3 FAILED (gold) | 5/5 TYPE 0 GABAergic disinhibition |
+| `evo_20260211_201329` | Circadian CBD/VDAC1 | pharmacology+bioelectric | S3 FAILED (gold) | GSK3-beta chronopharmacology, TYPE 1 consensus error |
+| `evo_20260212_032819` | VDAC1 cofactor landscape | pharmacology | S3 FAILED (gold) | Cofactor equation, f_free^4 cooperativity |
 
 ## THC Two-Pathway Model
 
