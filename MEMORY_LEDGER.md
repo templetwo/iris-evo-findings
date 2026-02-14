@@ -6,6 +6,41 @@ This ledger chronicles major milestones, discoveries, and convergences in the IR
 
 ---
 
+## 2026-02-15T01:00:00Z - Cross-Run Convergence Tool validated & Atlas v1.0 Released
+
+**Phase**: Post-manuscript tooling + public release
+
+**What Happened**:
+- Ran cross-run convergence tool retroactively across entire corpus: 18 runs, 159 claims, 11,881 pairwise comparisons, 6 cross-matches found
+- Cross-validated singulars: lithium GSK-3B neuroprotection (cosine 0.7765), CBD membrane partitioning (cosine 0.7685)
+- Highest cross-match: THC biphasic CB1 signaling (cosine 0.7914) — cross-promoted from TYPE 2 to validated
+- Independent replication confirmed: CBD hepatic concentration modeling across two separate runs (cosine 0.789)
+- Structural isomorphism expanded to 5 molecules across 4 target classes:
+  - CBD (channel/VDAC1), Lithium (kinase/GSK-3B), THC (GPCR/CB1) — original three
+  - Psilocybin (GPCR/5-HT2A) — NEW: 20-50% occupancy = BDNF/mTOR, >60% = glutamate flood
+  - Metformin (enzyme/Complex I) — NEW: 20-40% block = AMPK, >50% = PMF collapse
+- `threshold_crossover` pattern appeared in 11/18 runs — most prevalent structural fingerprint
+- Released VDAC Pharmacology Atlas v1.0 on GitHub with PDF, tag, and release notes
+- README rewritten with cofactor equation, structural isomorphism table, cross-run tool reference
+
+**Key Insight**: The cross-run tool surfaces what the S3 gate cannot — convergence that exists across runs but not within them. Singulars from one run become validation evidence when another run independently generates the same mechanism. The corpus is smarter than any of its parts.
+
+**Technical Details**:
+- Cross-run tool: `src/cross_run/` (loader, matcher, report) + `cross_run.py` CLI
+- Zero API calls — reuses all-MiniLM-L6-v2 embeddings from within-run synthesis
+- Threshold: cosine >= 0.75 (above within-run 0.70 since cross-run pairs share domain vocabulary)
+- TYPE reclassification: CROSS-VALIDATED SINGULAR, CONVERGENT SINGULAR, INDEPENDENT REPLICATION, CROSS-PROMOTED
+
+**Files Created/Updated**:
+- `Iris-Gate-Evo/results/cross_run/cross_run_report.json` — full machine-readable report
+- `Iris-Gate-Evo/results/cross_run/cross_run_summary.md` — human-readable summary
+- `vdac-pharmacology-atlas/README.md` — major rewrite for v1.0
+- GitHub Release: https://github.com/templetwo/vdac-pharmacology-atlas/releases/tag/v1.0
+
+**Repos Updated**: iris-gate-evo, vdac-pharmacology-atlas, temple-vault (ARCHITECTS)
+
+---
+
 ## 2026-02-14T23:00:00Z - VDAC Pharmacology Atlas manuscript complete
 
 **Phase**: Manuscript crystallization — from raw data to six-layer portrait
