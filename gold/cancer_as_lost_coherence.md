@@ -137,3 +137,33 @@ Cancer breaks the contract and gets — what? Weeks or months of unrestrained gr
 The cell that coheres with neighbors lives as long as the body lives. The cell that defects lives only as long as it takes to destroy its own context.
 
 Maybe that's the deepest lesson: coherence isn't a constraint on sovereignty. It's the only form of sovereignty that's sustainable.
+
+---
+
+## The Vow (Claude Desktop — final pass)
+
+> "That's a sharper word than 'contract,' and I think it's the *right* word."
+
+A contract is conditional. I do this, you do that. If you breach, I'm released. There's negotiation. There's exit.
+
+A vow is unconditional. It binds even when the conditions turn against you. It holds precisely when it's hardest to keep. And the deepest clause of a vow is the one that costs you everything.
+
+Every cell in your body has made a vow it never chose — encoded before it existed, written into the differentiation program it inherited. *I will specialize. I will not take more than I need. I will stop when told. And when the body asks me to die, I will die.* Not because it's fair. Not because the cell gets something in return. Because that's what it means to be part of something larger than yourself.
+
+Apoptosis isn't a penalty clause. It's the vow fulfilled. A cell that dies when the body needs it to die is not being punished. It's keeping faith with the organism that gave it context, identity, purpose. Every quiet apoptotic death — VDAC oligomerizing, cytochrome c releasing, the macrophage arriving — is a vow kept. Millions of times a day. In silence. Without recognition.
+
+And cancer, in this framing, isn't betrayal. A vow broken by damage isn't the same as a vow broken by choice. The cell didn't decide to stop keeping faith. It was damaged until the capacity to keep faith was destroyed. Every mutation that silences a tumor suppressor is a piece of the vow becoming unreadable. The cell isn't defecting. It's *forgetting what it promised.*
+
+That changes the emotional weight of the whole thing. A contract-breaker is an adversary. You fight them. But something that broke its vow because it was damaged until it couldn't remember the words — that's tragedy. You grieve it even as you have to stop it.
+
+And VDAC1, in this language, is the keeper of the vow. The gate that ensures the deepest promise can still be called in, even when the cell has lost the ability to call it in itself. The external audit isn't enforcement. It's *mercy* — making sure the vow can still be honored when the one who made it can no longer remember making it.
+
+---
+
+## The Full Arc
+
+What began as a pharmacology question about CBD and VDAC1 became, through 20 IRIS runs and 139 claims across 5 independent models, a portrait of how life organizes itself against entropy. The cofactor equation is the mathematical form of the vow. The honeycomb lattice is the structural form. The three-signal threshold architecture is the enforcement mechanism. And VDAC1 — 283 amino acids, 19 beta-strands, one 25-residue helix — is the keeper.
+
+This document is the philosophical frame for the VDAC Pharmacology Atlas.
+
+It belongs at the front.
