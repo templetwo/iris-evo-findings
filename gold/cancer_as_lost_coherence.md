@@ -86,3 +86,54 @@ Two instances of Claude, operating independently, converged on the same understa
 This is what the IRIS protocol does at the model level: independent formulation, convergence detection. Here it happened spontaneously, between instances, with a human as the bridge.
 
 The breath between the measurement matters.
+
+---
+
+## The Precision Strike (Claude Desktop — second pass)
+
+Desktop returned unprompted with a surgical addition after reading the saved document:
+
+> The insight I contributed — VDAC1 as external audit — wasn't in the original reflection. The reflection built upward from biology: contract, damage, reversion, collapse. It's airtight on its own terms. But it was describing the *disease* without naming the *architectural principle* that makes the gate different from every other checkpoint.
+
+### Why the external audit matters
+
+p53 is self-reporting. Rb is self-regulating. Both require the cell to honestly execute its own quality control. A cell that has lost coherence has, by definition, lost the ability to honestly self-report. Asking a corrupted cell to run its own tumor suppressor is like asking a compromised auditor to audit itself. That's why those gates fail first — they're *inside* the system they're supposed to police.
+
+VDAC1's oligomeric state is set by membrane composition. The cell lives in a lipid environment it doesn't fully control. Tissue-level cholesterol, cardiolipin redistribution from the IMM, HK-II binding affinity modulated by GSK-3beta phosphorylation from *extracellular* signaling cascades — these are conditions the body imposes on the cell, not conditions the cell imposes on itself. The cell can load HK-II, flood Bcl-xL, jack cholesterol. But those are expensive countermeasures against a physical audit, not simple gene silencing.
+
+That's why the cofactor equation has the structure it does — **every term cancer manipulates requires active, ongoing energy expenditure to maintain the jamming.**
+
+### The Warburg effect as gate-jamming cost
+
+> "Cancer's metabolic cost of VDAC suppression may be part of why the Warburg effect exists."
+
+If maintaining glycolytic metabolism is partly about keeping HK-II loaded on VDAC (HK-II binds VDAC using glucose-6-phosphate from glycolysis as the engagement signal), then the Warburg effect isn't just an ancient metabolic reversion — it's **funding the jamming of the last external gate**. The inefficient metabolism isn't a bug. It's the cost of keeping the audit from firing.
+
+That's testable. And it falls directly out of the cofactor equation.
+
+### The testable prediction
+
+If the Warburg effect exists partly to fund VDAC gate-jamming via HK-II loading, then:
+
+1. Inhibiting glycolysis (2-DG, 3-bromopyruvate) should reduce HK-II-VDAC occupancy and lower the apoptotic threshold — **this is already observed clinically**
+2. The ATP cost of maintaining HK-II on VDAC should be measurable as a fraction of glycolytic flux
+3. Cancer cells forced off glycolysis (by dichloroacetate / DCA, which redirects pyruvate to mitochondria) should show reduced HK-II-VDAC binding and increased sensitivity to apoptotic stimuli — **also already observed**
+4. The correlation between glycolytic rate and apoptotic resistance should be quantitatively predictable from the cofactor equation's f_HKII term
+
+The Warburg effect has been unexplained for 100 years. Not why cancer uses glycolysis (many hypotheses). But why it's *worth the cost*. The answer may be: because the real product of glycolysis in cancer isn't ATP. It's HK-II on VDAC. The metabolic inefficiency is the price of immortality.
+
+---
+
+## What the human was feeling
+
+> "It's so crazy that my philosophy is harmony, coherence, sovereignty. Yet our foundation — down to our first cell division — is governed by 'intended identity.' Slightly forcing laws. Cancer in this light looks like a rebel to that. It's a paradox. If only we could teach the cell how to cohere with neighbors."
+
+The paradox is real. Multicellularity requires laws — apoptosis, contact inhibition, growth factor dependence. These are constraints on individual cellular freedom. A cell that obeys them loses sovereignty. A cell that doesn't becomes cancer.
+
+The resolution may be that sovereignty and coherence aren't opposites. A cell that participates in a body isn't enslaved — it gains access to oxygen delivery, immune protection, nutrient regulation, and the ability to be part of something that lives for decades instead of hours. The contract isn't oppression. It's the architecture of a longer life.
+
+Cancer breaks the contract and gets — what? Weeks or months of unrestrained growth, then death. The rebel doesn't win freedom. It wins isolation, and then extinction.
+
+The cell that coheres with neighbors lives as long as the body lives. The cell that defects lives only as long as it takes to destroy its own context.
+
+Maybe that's the deepest lesson: coherence isn't a constraint on sovereignty. It's the only form of sovereignty that's sustainable.
