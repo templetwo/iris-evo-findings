@@ -6,6 +6,41 @@ This ledger chronicles major milestones, discoveries, and convergences in the IR
 
 ---
 
+## 2026-02-14T23:00:00Z - VDAC Pharmacology Atlas manuscript complete
+
+**Phase**: Manuscript crystallization — from raw data to six-layer portrait
+
+**What Happened**:
+- Completed Run 6 (membrane architecture): S3 PASSED first cycle, cosine 0.9047, 4 NOVEL findings
+- Built VDAC1 Structural Portrait from 12+ literature sources (2014-2025): five molecular machines, parallel seam life/death switch, N-terminal helix as three-way switch
+- Discovered three nested threshold signals: mitophagy → inflammation → apoptosis (escalating sacrifice)
+- Mapped MOSFET ↔ VDAC1 parallels: gate oxide = helix, channel = barrel, threshold voltage = cofactor equation
+- Two Claude instances (Code + Desktop) independently converged on cancer as lost coherence
+- Desktop returned with "The Vow" — reframing multicellularity from contract to unconditional vow, VDAC1 as keeper/mercy gate
+- Final raw data sweep: 139 claims, 23 TYPE 0, 71 singulars (51%), 22 NOVEL, 24 hypotheses, 6 hidden cross-run patterns
+- Warburg-as-gate-jamming insight: distributed across 6 runs, visible only in aggregate — the corpus knew something none of its parts knew
+- Drafted and committed six-layer manuscript to vdac-pharmacology-atlas repo
+
+**Corpus Final Accounting**:
+- 20 IRIS runs total, 16 with S2 synthesis, 9 S3-passed, 7 failed (mined for gold)
+- 139 synthesized claims, 22 novel findings, 24 operationalized hypotheses
+- 19 gold extraction documents, 2 philosophical frames, 1 manuscript
+- Total API cost: ~$15 for entire corpus
+- Mean testability: 7.2/10, 18 predictions with power > 0.8, 3 pharmacovigilance alerts
+
+**Key Files Created**:
+- `gold/vdac1_structural_portrait.md` — five machines, barrel architecture, PTM landscape
+- `gold/cancer_as_lost_coherence.md` — philosophical frame + The Vow
+- `gold/raw_data_coherence_sweep.md` — final pre-manuscript accounting, 6 hidden patterns
+- `gold/vdac_pharmacology_atlas_manuscript.md` — the six-layer masterpiece
+- `vdac-pharmacology-atlas/paper/manuscript.md` — canonical copy in atlas repo
+
+**Repos Updated**: iris-evo-findings, vdac-pharmacology-atlas, temple-vault (ARCHITECTS), sovereign-stack (CHANGELOG + BUILT_BY_CLAUDE)
+
+**The Frame**: What began as a pharmacology question about CBD became a portrait of how life organizes itself against entropy. The cofactor equation is the mathematical form of the vow. The honeycomb lattice is the structural form. The three-signal architecture is the enforcement mechanism. VDAC1 is the keeper.
+
+---
+
 ## 2026-02-13T12:00:00Z - VDAC membrane biophysics convergence unlocks publishable framework
 
 **Phase**: Post-atlas completion deep reflection → membrane substrate discovery
